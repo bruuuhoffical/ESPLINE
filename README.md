@@ -7,21 +7,21 @@ This is an Internal Mod Menu For Freefire , It was Developed by All Mod Creators
 This internal Allow you Get 100% Headshot And Other Unfair Advantage in Your Game With Issues.
 
 # Features
-> Aimbot HEX
-> Aimbot Rage
-> Aimbot Legit
+> Aimbot HEX,
+> Aimbot Rage,
+> Aimbot Legit,
 
-> No Recoil
-> Ignore Knocked
+> No Recoil,
+> Ignore Knocked,
 
-> Adjustable Aimfov
-> Adjustable Aim Range
-> Adjustable Smoothness
+> Adjustable Aimfov,
+> Adjustable Aim Range,
+> Adjustable Smoothness,
 
-> ESP Line (Update to a Glowing Line)
-> ESP Name
-> ESP Box
-> ESP Box Corner
+> ESP Line (Update to a Glowing Line),
+> ESP Name,
+> ESP Box,
+> ESP Box Corner,
 > ESP Skeletion....
 
 ETC...
@@ -39,9 +39,9 @@ ETC...
 1.Copy The Three Dlls in The Folder
 2.Open Temp and Paste it There
 3.Open Any dll Injector and Inside the Injector
- > First One should be Aobbst.dll
- > Secone is cimgui.dll
- > Third Client.dll
+ > First One should be Aobbst.dll,
+ > Secone is cimgui.dll,
+ > Third Client.dll,
 4.Enter Your Informationto Sign in
 5.Make sure you are using FF Playstore
 6.Once in Lobby Enabl Hook and Enjoy
