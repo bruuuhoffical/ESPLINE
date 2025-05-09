@@ -28,7 +28,7 @@ ETC...
 
 # Setup 
 
-1. Ensure Your Emulator isnt Rooted (if yes re instakk it)
+1. Ensure Your Emulator isnt Rooted (if yes re install it)
 2. Clear Temp (Windows + R)
 3. Delete Everything in Your Temp
 4. Open Emulator Settings : Go to Advanced and Enable ADB
